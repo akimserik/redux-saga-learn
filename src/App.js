@@ -17,7 +17,6 @@ import {
   asyncAddManyCustomersAction,
   removeCustomerAction,
 } from "./store/customerReducer";
-// import { fetchCustomers } from "./asyncActions/customers";
 import Count from "./components/Count";
 
 function App() {
